@@ -2,7 +2,7 @@
 
 A Glider Wing designed to fit on the Eclipson Model B.
 
-This wing was created for fun and I don't recommend using it on an actual Model B unless you are really adventurous. I've only done one flight test and the plan controlled very poorly with a lot of unwanted yaw. Without a gyro I am certain that it would have crashed.
+This wing was created for fun and I don't recommend using it on an actual Model B unless you are really adventurous. I've only done one flight test and the plane controlled very poorly with a lot of unwanted yaw. Without a gyro I am certain that it would have crashed.
 
 # Required Hardware
 
